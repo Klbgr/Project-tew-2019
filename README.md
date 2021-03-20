@@ -1,4 +1,4 @@
-# Project-tew-2019-
+# Project-tew-2019
 Image encryption/decryption
 
 Python 3.7
